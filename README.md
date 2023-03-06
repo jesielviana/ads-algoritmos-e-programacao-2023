@@ -17,9 +17,11 @@ Este material faz parte da disciplina de Algoritmos e Programação do Curso Sup
 
 ## Notas de aulas
 
-| Aula      | Assunto                         | Material                                                     |
-| --------- | ------------------------------- | ------------------------------------------------------------ |
-| 7/03/2022 | Apresentação do plano de ensino | <a target="_blank" href="https://bit.ly/3xh444S" >slides</a> |
+| Aula       | Assunto                            | Material                                                     |
+| ---------- | ---------------------------------- | ------------------------------------------------------------ |
+| 27/02/2022 | Apresentação do plano de ensino    | <a target="_blank" href="https://bit.ly/3xh444S" >slides</a> |
+| 03/03/2022 | Requisitos para programação        | <a target="_blank" href="https://bit.ly/3kSkEWc" >slides</a> |
+| 06/03/2022 | Introdução a Lógica de Programação | <a target="_blank" href="https://bit.ly/3F0X4O0" >slides</a> |
 
 ## Objetivo do curso
 
@@ -51,10 +53,10 @@ No processo de aprendizado de programação, você também vai:
 ## Ementa
 
 1. Apresentação do plano de ensino
-1. Requisitos para programação 
-1. Introdução a lógica de programação 
+1. Requisitos para programação
+1. Introdução a lógica de programação
 1. Algoritmos e pseudocódigo
-1. Técnica para análise e resolução de problemas 
+1. Técnica para análise e resolução de problemas
 1. Linguagens de programação
 1. Sintaxe de linguagens de programação
 1. Variáveis
@@ -81,6 +83,7 @@ Ferramentas utilizadas no curso para realização das atividades. Instale e conf
 
 - [Introdução a Algoritmos e Programação com Python](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Algoritmos-Programa%C3%A7%C3%A3o-com-Python/dp/8535290516)
 - [Lógica de Programação e Algoritmos com JavaScript](https://www.amazon.com.br/L%C3%B3gica-Programa%C3%A7%C3%A3o-Algoritmos-com-JavaScript/dp/6586057906/)
+
 ---
 
 ## Licença
