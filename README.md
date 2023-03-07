@@ -22,6 +22,7 @@ Este material faz parte da disciplina de Algoritmos e Programação do Curso Sup
 | 27/02/2022 | Apresentação do plano de ensino    | <a target="_blank" href="https://bit.ly/3xh444S" >slides</a> |
 | 03/03/2022 | Requisitos para programação        | <a target="_blank" href="https://bit.ly/3kSkEWc" >slides</a> |
 | 06/03/2022 | Introdução a Lógica de Programação | <a target="_blank" href="https://bit.ly/3F0X4O0" >slides</a> |
+| 06/03/2022 | Introdução à Algoritmos            | <a target="_blank" href="https://bit.ly/3ZM2hkJ" >slides</a> |
 
 ## Objetivo do curso
 
