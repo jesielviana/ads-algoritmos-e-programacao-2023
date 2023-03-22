@@ -28,6 +28,11 @@ Este material faz parte da disciplina de Algoritmos e Programação do Curso Sup
 ## Link para turma no Replit
 [https://replit.com/teams/join/ojwrwzlacrqjpjwsvrbpamowyjhfofcl-algoritmos-e-programao-2023](https://replit.com/teams/join/ojwrwzlacrqjpjwsvrbpamowyjhfofcl-algoritmos-e-programao-2023)
 
+
+## Link para turma no Beecrowd
+[https://bcwd.me/d-10525](https://bcwd.me/d-10525)
+Senha para entrar na turma do Beecrowd: **BOQhSbn**
+
 ## Objetivo do curso
 
 Introduzir conhecimento e técnicas necessários para análise de problemas e projeto de solução computacional através da construção de algoritmos e programas que utilizam os princípios da programação estruturada.
