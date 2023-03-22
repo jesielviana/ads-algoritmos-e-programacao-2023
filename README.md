@@ -26,12 +26,11 @@ Este material faz parte da disciplina de Algoritmos e Programação do Curso Sup
 | 13/03/2022 | Introdução à Programação            | <a target="_blank" href="https://bit.ly/3FmGqIJ" >slides</a> |
 
 ## Link para turma no Replit
-[https://replit.com/teams/join/ojwrwzlacrqjpjwsvrbpamowyjhfofcl-algoritmos-e-programao-2023](https://replit.com/teams/join/ojwrwzlacrqjpjwsvrbpamowyjhfofcl-algoritmos-e-programao-2023)
+- [https://replit.com/teams/join/ojwrwzlacrqjpjwsvrbpamowyjhfofcl-algoritmos-e-programao-2023](https://replit.com/teams/join/ojwrwzlacrqjpjwsvrbpamowyjhfofcl-algoritmos-e-programao-2023)
 
 
 ## Link para turma no Beecrowd
-[https://bcwd.me/d-10525](https://bcwd.me/d-10525)
-
+- [https://bcwd.me/d-10525](https://bcwd.me/d-10525)
 - Senha para entrar na turma do Beecrowd: **BOQhSbn**
 
 
