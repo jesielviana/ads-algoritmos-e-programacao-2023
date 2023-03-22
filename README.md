@@ -33,6 +33,7 @@ Este material faz parte da disciplina de Algoritmos e Programação do Curso Sup
 [https://bcwd.me/d-10525](https://bcwd.me/d-10525)
 Senha para entrar na turma do Beecrowd: **BOQhSbn**
 
+
 ## Objetivo do curso
 
 Introduzir conhecimento e técnicas necessários para análise de problemas e projeto de solução computacional através da construção de algoritmos e programas que utilizam os princípios da programação estruturada.
@@ -93,6 +94,11 @@ Ferramentas utilizadas no curso para realização das atividades. Instale e conf
 
 - [Introdução a Algoritmos e Programação com Python](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Algoritmos-Programa%C3%A7%C3%A3o-com-Python/dp/8535290516)
 - [Lógica de Programação e Algoritmos com JavaScript](https://www.amazon.com.br/L%C3%B3gica-Programa%C3%A7%C3%A3o-Algoritmos-com-JavaScript/dp/6586057906/)
+
+## Livros gratuitos
+
+- [Eloquent JavaScript](https://github.com/braziljs/eloquente-javascript)
+- [Python Fluente](https://pythonfluente.com/)
 
 ---
 
