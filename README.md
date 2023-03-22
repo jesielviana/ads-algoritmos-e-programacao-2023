@@ -31,7 +31,8 @@ Este material faz parte da disciplina de Algoritmos e Programação do Curso Sup
 
 ## Link para turma no Beecrowd
 [https://bcwd.me/d-10525](https://bcwd.me/d-10525)
-Senha para entrar na turma do Beecrowd: **BOQhSbn**
+
+- Senha para entrar na turma do Beecrowd: **BOQhSbn**
 
 
 ## Objetivo do curso
