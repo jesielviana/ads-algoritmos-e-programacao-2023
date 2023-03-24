@@ -1,13 +1,10 @@
-let numero = prompt('Digite um número: ')
-
-if(numero % 2 == 0){
-  console.log('número par')
-}
-
-console.log('Fim do programa')
-
-if(condicao){
-    // executa se codicao for verdade  
+var input = require('fs').readFileSync('/dev/stdin', 'utf8');
+var lines = input.split('\n');
+//1035
+let valores = lines.shift()
+let [a,b,c,d] = valores.split(' ')
+if(b > c && d > a && (c+d) > (a+b) && c > 0 && d > 0 && a % 2 == 0){
+    console.log('Valores aceitos')
 }else{
-    // executa se a condicao for falsa
+    console.log('Valores nao aceitos')
 }
