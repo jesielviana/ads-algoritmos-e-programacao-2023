@@ -17,22 +17,23 @@ Este material faz parte da disciplina de Algoritmos e Programação do Curso Sup
 
 ## Notas de aulas
 
-| Aula       | Assunto                            | Material                                                     |
-| ---------- | ---------------------------------- | ------------------------------------------------------------ |
-| 27/02/2022 | Apresentação do plano de ensino    | <a target="_blank" href="https://bit.ly/3xh444S" >slides</a> |
-| 03/03/2022 | Requisitos para programação        | <a target="_blank" href="https://bit.ly/3kSkEWc" >slides</a> |
-| 06/03/2022 | Introdução a Lógica de Programação | <a target="_blank" href="https://bit.ly/3F0X4O0" >slides</a> |
-| 06/03/2022 | Introdução à Algoritmos            | <a target="_blank" href="https://bit.ly/3ZM2hkJ" >slides</a> |
-| 13/03/2022 | Introdução à Programação            | <a target="_blank" href="https://bit.ly/3FmGqIJ" >slides</a> |
+| Aula       | Assunto                                        | Material                                                     |
+| ---------- | ---------------------------------------------- | ------------------------------------------------------------ |
+| 27/02/2022 | Apresentação do plano de ensino                | <a target="_blank" href="https://bit.ly/3xh444S" >slides</a> |
+| 03/03/2022 | Requisitos para programação                    | <a target="_blank" href="https://bit.ly/3kSkEWc" >slides</a> |
+| 06/03/2022 | Introdução a Lógica de Programação             | <a target="_blank" href="https://bit.ly/3F0X4O0" >slides</a> |
+| 06/03/2022 | Introdução à Algoritmos                        | <a target="_blank" href="https://bit.ly/3ZM2hkJ" >slides</a> |
+| 13/03/2022 | Introdução à Programação                       | <a target="_blank" href="https://bit.ly/3FmGqIJ" >slides</a> |
+| 20/03/2022 | Estruturas de controle para tomada de decisões | <a target="_blank" href="https://bit.ly/3LKue8R" >slides</a> |
 
 ## Link para turma no Replit
+
 - [https://replit.com/teams/join/ojwrwzlacrqjpjwsvrbpamowyjhfofcl-algoritmos-e-programao-2023](https://replit.com/teams/join/ojwrwzlacrqjpjwsvrbpamowyjhfofcl-algoritmos-e-programao-2023)
 
-
 ## Link para turma no Beecrowd
+
 - [https://bcwd.me/d-10525](https://bcwd.me/d-10525)
 - Senha para entrar na turma do Beecrowd: **BOQhSbn**
-
 
 ## Objetivo do curso
 
