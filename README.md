@@ -35,6 +35,9 @@ Este material faz parte da disciplina de Algoritmos e Programação do Curso Sup
 - [https://bcwd.me/d-10525](https://bcwd.me/d-10525)
 - Senha para entrar na turma do Beecrowd: **BOQhSbn**
 
+## Link do Vereda - App para acompanhamento dos objetivos de aprendizagem
+- [https://vereda.vercel.app/cursos](https://vereda.vercel.app/cursos)
+
 ## Objetivo do curso
 
 Introduzir conhecimento e técnicas necessários para análise de problemas e projeto de solução computacional através da construção de algoritmos e programas que utilizam os princípios da programação estruturada.
