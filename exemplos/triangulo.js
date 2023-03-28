@@ -1,6 +1,6 @@
 let entrada = "6.0 8.0 10.0";
 
-// transforma a entrada em um array de strings
+// separa os valores em um array
 let valores = entrada.split(" ");
 // ordena o array de forma decrescente
 valores = valores.sort((x, y) => y - x);
