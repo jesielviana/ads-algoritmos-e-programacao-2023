@@ -1,6 +1,4 @@
 {
-  "markdown.marp.themes": [
-    "./slides/themes/webdev.css"
-  ],
-  "editor.fontSize": 18
+  "markdown.marp.themes": ["./slides/themes/webdev.css"],
+  "editor.fontSize": 19
 }

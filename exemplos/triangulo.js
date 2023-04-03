@@ -1,4 +1,5 @@
-let entrada = "6.0 8.0 10.0";
+// problema 1045 do beecrowd
+let entrada = "6.0 8.0 10.0"; // lines.shift();
 
 // separa os valores em um array
 let valores = entrada.split(" ");
