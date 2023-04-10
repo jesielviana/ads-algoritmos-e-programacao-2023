@@ -25,6 +25,8 @@ Este material faz parte da disciplina de Algoritmos e Programação do Curso Sup
 | 06/03/2022 | Introdução à Algoritmos                        | <a target="_blank" href="https://bit.ly/3ZM2hkJ" >slides</a> |
 | 13/03/2022 | Introdução à Programação                       | <a target="_blank" href="https://bit.ly/3FmGqIJ" >slides</a> |
 | 20/03/2022 | Estruturas de controle para tomada de decisões | <a target="_blank" href="https://bit.ly/3LKue8R" >slides</a> |
+| 03/04/2023 | Laços de repetição: for | <a target="_blank" href="https://bit.ly/3o3hJLw" >slides</a>  |
+| 10/04/2023 | Laços de repetição: while | <a target="_blank" href="https://bit.ly/3o2mKUV" >slides</a>  |
 
 ### Link para turma no Replit
 
