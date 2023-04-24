@@ -28,6 +28,7 @@ Este material faz parte da disciplina de Algoritmos e Programação do Curso Sup
 | 03/04/2023 | Laços de repetição: for                        | <a target="_blank" href="https://bit.ly/3o3hJLw" >slides</a> |
 | 10/04/2023 | Laços de repetição: while                      | <a target="_blank" href="https://bit.ly/3o2mKUV" >slides</a> |
 | 14/04/2022 | Lista/Array                                    | <a target="_blank" href="https://bit.ly/3KE8xoF" >slides</a> |
+| 24/04/2022 | Funções                                        | <a target="_blank" href="https://bit.ly/40yB9pq" >slides</a> |
 
 ### Link para turma no Replit
 
