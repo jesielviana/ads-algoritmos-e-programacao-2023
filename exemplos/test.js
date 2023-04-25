@@ -1,25 +1,21 @@
-let numeros = [1, 2, 3, 4, 5, 6, 7];
+const numeros = [1, 2, 1, 2, 2, 2, 1, 1, 2, 2, 1, 1];
 
-const num = 5;
-
-let meio = getMeio(numeros);
-while (true) {
-  if (meio < 0 || meio > numeros.length) {
-    console.log("numero nao existe na lista");
-    break;
+let invalidos = 0;
+let anterior = 0;
+let contadorRepetidos = 1;
+for (n of numeros) {
+  if (anterior != n) {
+    if (contadorRepetidos > 1) {
+      invalidos = invalidos + (contadorRepetidos - 1);
+      contadorRepetidos = 1;
+    }
+  } else {
+    contadorRepetidos++;
   }
-  if (numeros[meio] === num) {
-    console.log("numero encontrado na posicao ", meio);
-    break;
-  } else if (num > numeros[meio]) {
-    numeros = numeros.splice(meio, numeros.length - meio);
-    meio = getMeio(numeros);
-  } else if (num < numeros[meio]) {
-    numeros = numeros.splice(0, numeros.length - meio);
-    meio = getMeio(numeros);
-  }
+  anterior = n;
 }
-
-function getMeio(lista) {
-  return parseInt(lista.length / 2);
+if (contadorRepetidos > 1) {
+  invalidos = invalidos + (contadorRepetidos - 1);
+  contadorRepetidos = 1;
 }
+console.log(numeros.length - invalidos);
