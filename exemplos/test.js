@@ -19,3 +19,5 @@ if (contadorRepetidos > 1) {
   contadorRepetidos = 1;
 }
 console.log(numeros.length - invalidos);
+
+// by Jesiel Viana
