@@ -1,0 +1,12 @@
+{
+  "name": "exemplos",
+  "version": "1.0.0",
+  "main": "busca-binaria-com-splice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
