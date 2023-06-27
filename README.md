@@ -30,6 +30,10 @@ Este material faz parte da disciplina de Algoritmos e Programação do Curso Sup
 | 14/04/2022 | Lista/Array                                    | <a target="_blank" href="https://bit.ly/3KE8xoF" >slides</a> |
 | 24/04/2022 | Funções                                        | <a target="_blank" href="https://bit.ly/40yB9pq" >slides</a> |
 
+
+### Projetos 
+- [https://sharing.acreom.com/d/7db4acb8-da42-4941-890b-1287fa2b8b05](https://sharing.acreom.com/d/7db4acb8-da42-4941-890b-1287fa2b8b05)
+
 ### Link para turma no Replit
 
 - [https://replit.com/teams/join/ojwrwzlacrqjpjwsvrbpamowyjhfofcl-algoritmos-e-programao-2023](https://replit.com/teams/join/ojwrwzlacrqjpjwsvrbpamowyjhfofcl-algoritmos-e-programao-2023)
